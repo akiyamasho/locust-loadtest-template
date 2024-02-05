@@ -1,0 +1,9 @@
+version: "3.8"
+services:
+  tests:
+    build: .
+    volumes:
+      - ./src:/app/src
+    ports:
+      - 8089:8089
+    command: locust -f src/main.py
