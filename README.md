@@ -19,7 +19,8 @@ Either of the following:
 ### Setup
 
 1. Update the endpoints and parameters in [src/main.py](src/main.py) to the environment you'd like to test.
-NOTE: Sample GET and POST endpoints are provided in the file.
+    
+    NOTE: Sample GET and POST endpoints are provided in the file.
 
 1. Run locust through the startup script
     1. With `docker-compose`:
