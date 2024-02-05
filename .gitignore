@@ -1,0 +1,7 @@
+env/
+__pycache__
+.env
+.ipynb
+.history
+env
+.DS_Store
