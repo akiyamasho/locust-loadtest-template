@@ -1,6 +1,7 @@
 # Locust Load Test Template
 
-This is a quick template for creating GET/POST load tests with Locust.
+This is a quick template for creating load tests with Locust.
+<img width="905" alt="スクリーンショット 2024-02-06 5 16 01" src="https://github.com/akiyamasho/locust-loadtest-template/assets/35907066/5e7d8cef-a6e1-4a1a-8bbd-9b18629b2d80">
 
 ### Table of Contents
 - [Locust Load Test Template](#locust-load-test-template)
